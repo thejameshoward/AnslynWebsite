@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="422F3AD3-347C-41BC-AADB-3357CE824E05">
+  <lastEdited clientType="local-build-20170309" date="2017-03-09 17:56:09 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Dr. Xiaolong Sun</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Biography: I was born in Qingdao, China. I worked for Professor Xuhong Qian as a master student in East China University of Science and Technology and then was accepted as a PhD working for Professor Tony D. James in 2012, University of Bath, United Kingdom. In the early of 2015, I started my work as a joint-postdoc for Professor Eric V. Anslyn and Andy Ellington.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="1_Dr._Xiaolong_Sun_files/Shawn.jpg" left="0px" top="0px" width="300px" height="300px"/>
+</content>

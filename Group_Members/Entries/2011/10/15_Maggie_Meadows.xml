@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="422F3AD3-347C-41BC-AADB-3357CE824E05">
+  <lastEdited clientType="local-build-20161130" date="2016-11-30 22:46:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Maggie Meadows</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Biography: I was born and raised in Charleston, SC. I worked in Brian Goess's lab at Furman Unversity until I graduated in 2011. I moved to Austin in 2011 and worked for Dr. Dionicio Siegel for a year and a half before joining the Anslyn group in Spring 2013. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="15_Maggie_Meadows_files/0723161835a%20%282%29.jpg" left="0px" top="0px" width="300px" height="238.9062px"/>
+</content>

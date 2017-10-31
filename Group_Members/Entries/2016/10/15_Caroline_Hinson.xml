@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="422F3AD3-347C-41BC-AADB-3357CE824E05">
+  <lastEdited clientType="local-build-20170309" date="2017-03-09 17:56:07 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Caroline Hinson</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Biography:</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="15_Caroline_Hinson_files/Eric.jpg" left="0px" top="0px" width="211.506px" height="316px"/>
+</content>

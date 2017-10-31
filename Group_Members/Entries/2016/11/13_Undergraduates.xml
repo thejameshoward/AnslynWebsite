@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="422F3AD3-347C-41BC-AADB-3357CE824E05">
+  <lastEdited clientType="local-build-20170309" date="2017-03-09 17:56:09 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Undergraduates</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Undergraduates in the Anslyn Group:&#xD;&#xD;Brian Sandoval&#xD;Cedric Ginestra&#xD;Emily Roesner&#xD;Jonathan Partridge&#xD;Joshua McCauley&#xD;Kevin Sattler&#xD;Nathan Berryhill&#xD;Tiffany Lu&#xD;Dmitri Ukraintsev&#xD;Caleb Chang&#xD;Shailen Patel&#xD;Sarah Moor&#xD;Jasper Shei&#xD;Sam Glass&#xD;Doug Saunders&#xD;Matthew Hoffman&#xD;Frank Jing</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+</content>

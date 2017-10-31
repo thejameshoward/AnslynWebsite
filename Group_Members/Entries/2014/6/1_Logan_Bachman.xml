@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="422F3AD3-347C-41BC-AADB-3357CE824E05">
+  <lastEdited clientType="local-build-20170309" date="2017-03-09 17:56:09 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Logan Bachman</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Biography: I attended UT Austin for my undergraduate degree where I worked for Eric Anslyn doing small molecule synthesis of kinase inhibitors. After graduating, I officially joined the Anslyn group in 2014 where I work on the synthesis of fluorophores and fluorescent peptides that are used toward single-molecule peptide sequencing, in collaboration with Edward Marcotte.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <image id="generic-movie-attribute" dynamic="no" visible="yes" src="1_Logan_Bachman_files/ACAC6ED6-1F6C-479F-9A69-74D8944300D9.jpg" left="0px" top="0px" width="237px" height="316px"/>
+</content>

@@ -5528,10 +5528,10 @@ button.close {
 .carousel-control-prev,
 .carousel-control-next {
   position: absolute;
-  top: 0;
-  bottom: 0;
   display: -ms-flexbox;
   display: flex;
+  top: 20%;
+  bottom: 20%;
   -ms-flex-align: center;
       align-items: center;
   -ms-flex-pack: center;

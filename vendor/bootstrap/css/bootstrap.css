@@ -5530,8 +5530,8 @@ button.close {
   position: absolute;
   display: -ms-flexbox;
   display: flex;
-  top: 20%;
-  bottom: 20%;
+  top: 40%;
+  bottom: 40%;
   -ms-flex-align: center;
       align-items: center;
   -ms-flex-pack: center;

@@ -37,22 +37,34 @@ def GetLink(query: str = None):
 
 
 if __name__ == "__main__":
+    print_only = False
+
     # Read in the text file which contains the citations 
     # from Eric's CV
-    with open('test.txt', 'r') as infile:
+    with open('temp.txt', 'r') as infile:
         lines = infile.read().splitlines()
 
     # Clean the lines
     new_lines = []
     for line in lines:
-        new_lines.append(str(line.strip('\n')))
+        if not line == '':
+            new_lines.append(str(line.strip('\n')))
 
     # Write the formatted html
-    with open('formatted_publications.txt', 'w') as o:
+    if not print_only:
+        with open('formatted_publications.txt', 'w') as o:
+            for line in new_lines:
+                pub_number = int(str(line[:3]).strip())
+                search_query = str(line[4:])
+                pub = f'{pub_number}) <a href = {GetLink(search_query)}><font color="green"> {line[4:]} </a><br><br></font>'
+
+                o.write(pub)
+                o.write('\n')
+    else:
         for line in new_lines:
+            print(str(line[:3]).strip())
             pub_number = int(str(line[:3]).strip()) - 1
             search_query = str(line[4:])
             pub = f'{pub_number}) <a href = {GetLink(search_query)}><font color="green"> {line[4:]} </a><br><br></font>'
 
-            o.write(pub)
-            o.write('\n')
+            print(pub, '\n')
